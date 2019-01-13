@@ -1,4 +1,4 @@
-package entity;
+package com.makers.cruddemo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.GeneratedValue;

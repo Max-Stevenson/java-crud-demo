@@ -1,6 +1,6 @@
-package dao;
+package com.makers.cruddemo.dao;
 
-import entity.Employee;
+import com.makers.cruddemo.entity.Employee;
 
 import java.util.List;
 

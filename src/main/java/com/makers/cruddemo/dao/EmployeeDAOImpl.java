@@ -1,6 +1,6 @@
-package dao;
+package com.makers.cruddemo.dao;
 
-import entity.Employee;
+import com.makers.cruddemo.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
 import org.springframework.beans.factory.annotation.Autowired;
